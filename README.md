@@ -25,11 +25,7 @@ I have created this project Using Vite React with TypeScript FrameWork and BootS
    npm install bootstrap
    npm install bootstrap react-bootstrap
 
- 4. Start the development server:
- 
-   ```shell
+4. Start the development server:
+    ```shell
    npm run dev
 
-## Author
-
-* [@abubakrsaddique](https://github.com/abubakrsaddique)
